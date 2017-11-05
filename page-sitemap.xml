@@ -7,15 +7,15 @@
     </url>
     
     <url>
-        <loc>http://yoursite.com/about/</loc>
-        <lastmod>2017-10-11T07:27:03.460Z</lastmod>
+        <loc>http://yoursite.com/categories/page.html</loc>
+        <lastmod>2017-11-05T04:41:27.831Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/categories/</loc>
-        <lastmod>2017-10-11T07:22:28.728Z</lastmod>
+        <loc>http://yoursite.com/about/</loc>
+        <lastmod>2017-10-11T07:27:03.460Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
